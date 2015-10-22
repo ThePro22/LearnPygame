@@ -15,11 +15,6 @@ screen = pygame.display.set_mode((screenX ,screenY))
 windowTitle = 'Changing Colours'
 pygame.display.set_caption(windowTitle)
 
-<<<<<<< HEAD
-#COLOURS 
-=======
-#COLOURS
->>>>>>> 52517930ca46b720e71596d90322d966379b9a8d
 black  = pygame.Color(  0,  0,  0)
 grey   = pygame.Color(150,150,150)
 white  = pygame.Color(255,255,255)
